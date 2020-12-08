@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "recordum",
+  "version": "1.0.0",
+  "description": "acyort.am0200.com",
+  "scripts": {
+    "start": "acyort flow"
+  },
+  "dependencies": {
+    "@acyort/pigeon": "^0.2.0"
+  }
+}
